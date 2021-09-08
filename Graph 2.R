@@ -1,7 +1,9 @@
 # Hayden's File
 
+library(tidyverse)
+
 # STEP 1 : Madeleine
-cereal <- read.csv("/Users/mj/Desktop/2021 Fall/DS 3001/DS-3001-main/data/cereal.csv")
+cereal <- read_csv("cereal.csv")
 
 # STEP 2: Audrey
 
